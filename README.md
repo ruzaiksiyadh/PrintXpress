@@ -75,7 +75,7 @@ It is built with **Kotlin**, **Jetpack Compose**, **Room Database**, and a clean
 
 1. Clone or download the repository.
 2. Open **Android Studio** and choose **File → Open**.
-3. Select the project folder (e.g. `C:\Users\WW\Documents\Mad`).
+3. Select the project folder .
 4. Wait for **Gradle sync** to finish.
 5. Select an emulator or connected device.
 6. Click **Run 'app'** ▶️.
