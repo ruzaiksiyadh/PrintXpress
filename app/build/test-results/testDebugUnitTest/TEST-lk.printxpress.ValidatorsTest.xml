@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lk.printxpress.ValidatorsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-08T17:29:08.907Z" hostname="DESKTOP-KI4KS9V" time="0.065">
+  <properties/>
+  <testcase name="testNameValidation" classname="lk.printxpress.ValidatorsTest" time="0.017"/>
+  <testcase name="testSriLankanPhoneValidation" classname="lk.printxpress.ValidatorsTest" time="0.005"/>
+  <testcase name="testSupportedFileTypes" classname="lk.printxpress.ValidatorsTest" time="0.022"/>
+  <testcase name="testQuantityValidation" classname="lk.printxpress.ValidatorsTest" time="0.0"/>
+  <testcase name="testPasswordHashingSecurity" classname="lk.printxpress.ValidatorsTest" time="0.016"/>
+  <testcase name="testPasswordValidation" classname="lk.printxpress.ValidatorsTest" time="0.001"/>
+  <testcase name="testEmailValidation" classname="lk.printxpress.ValidatorsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

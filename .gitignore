@@ -1,0 +1,76 @@
+# ----------------------------
+# Gradle
+# ----------------------------
+.gradle/
+build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Keep the Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# ----------------------------
+# Android Studio / IntelliJ
+# ----------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ----------------------------
+# Local configuration
+# ----------------------------
+local.properties
+
+# ----------------------------
+# Generated files
+# ----------------------------
+bin/
+gen/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# KSP / Kapt generated sources
+**/build/generated/
+.kotlin/
+
+# ----------------------------
+# Signing & secrets
+# ----------------------------
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+*.pem
+
+# ----------------------------
+# Logs & temp files
+# ----------------------------
+*.log
+*.tmp
+*.swp
+*~
+
+# ----------------------------
+# Lint & test reports
+# ----------------------------
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint-results*.xml
+lint-results*.html
+reports/
+
+# ----------------------------
+# OS files
+# ----------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini

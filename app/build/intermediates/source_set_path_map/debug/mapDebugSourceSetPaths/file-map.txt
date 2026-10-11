@@ -1,0 +1,60 @@
+lk.printxpress.app-ui-tooling-preview-release-0 C:\Users\WW\.gradle\caches\9.8.1\transforms\0501376de619176d21165bebac45fa4b\transformed\ui-tooling-preview-release\res
+lk.printxpress.app-room-runtime-2.6.1-1 C:\Users\WW\.gradle\caches\9.8.1\transforms\07b78fd76141f4ebcdfedcc27aac0006\transformed\room-runtime-2.6.1\res
+lk.printxpress.app-animation-core-release-2 C:\Users\WW\.gradle\caches\9.8.1\transforms\0d5ecc9dae9cb434aca12e47fd1fda67\transformed\animation-core-release\res
+lk.printxpress.app-sqlite-2.4.0-3 C:\Users\WW\.gradle\caches\9.8.1\transforms\18371d1e871cfcbf162dd7d0d0e94d6d\transformed\sqlite-2.4.0\res
+lk.printxpress.app-startup-runtime-1.1.1-4 C:\Users\WW\.gradle\caches\9.8.1\transforms\1956f604c85deefe195d07c0993202b9\transformed\startup-runtime-1.1.1\res
+lk.printxpress.app-core-runtime-2.2.0-5 C:\Users\WW\.gradle\caches\9.8.1\transforms\1ae9f429162793d4185b4b2ce58e4016\transformed\core-runtime-2.2.0\res
+lk.printxpress.app-ui-release-6 C:\Users\WW\.gradle\caches\9.8.1\transforms\1cb403094cb22499a108eea4fa9f14e9\transformed\ui-release\res
+lk.printxpress.app-savedstate-1.2.1-7 C:\Users\WW\.gradle\caches\9.8.1\transforms\20a04f3e1068899519112d33e582f804\transformed\savedstate-1.2.1\res
+lk.printxpress.app-animation-release-8 C:\Users\WW\.gradle\caches\9.8.1\transforms\22f995bb3ec8d3159fdf7ca2cf1b694a\transformed\animation-release\res
+lk.printxpress.app-savedstate-ktx-1.2.1-9 C:\Users\WW\.gradle\caches\9.8.1\transforms\38bc4fde627666a1629556ce3022e262\transformed\savedstate-ktx-1.2.1\res
+lk.printxpress.app-lifecycle-process-2.8.7-10 C:\Users\WW\.gradle\caches\9.8.1\transforms\422e793ed0b04c416fa09ee1a7bc6a91\transformed\lifecycle-process-2.8.7\res
+lk.printxpress.app-navigation-runtime-ktx-2.8.4-11 C:\Users\WW\.gradle\caches\9.8.1\transforms\45808db6b871ad9c7bc6a2764092023e\transformed\navigation-runtime-ktx-2.8.4\res
+lk.printxpress.app-lifecycle-viewmodel-savedstate-2.8.7-12 C:\Users\WW\.gradle\caches\9.8.1\transforms\58be186d5e3d4b54356f7a190a556a70\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+lk.printxpress.app-emoji2-1.3.0-13 C:\Users\WW\.gradle\caches\9.8.1\transforms\5b266013ea876ab1f53c7ae82d685547\transformed\emoji2-1.3.0\res
+lk.printxpress.app-foundation-layout-release-14 C:\Users\WW\.gradle\caches\9.8.1\transforms\5c7547badc402d2f1ec77f53465da98e\transformed\foundation-layout-release\res
+lk.printxpress.app-runtime-release-15 C:\Users\WW\.gradle\caches\9.8.1\transforms\603793da347665a476323ee80402c4d7\transformed\runtime-release\res
+lk.printxpress.app-navigation-compose-2.8.4-16 C:\Users\WW\.gradle\caches\9.8.1\transforms\6d5d62048f23142d055bcc765aa0c614\transformed\navigation-compose-2.8.4\res
+lk.printxpress.app-material-icons-extended-release-17 C:\Users\WW\.gradle\caches\9.8.1\transforms\752d13007cd820fede6fb498bf2675df\transformed\material-icons-extended-release\res
+lk.printxpress.app-tracing-1.2.0-18 C:\Users\WW\.gradle\caches\9.8.1\transforms\7544fac91aa975e025344959be0cfe33\transformed\tracing-1.2.0\res
+lk.printxpress.app-navigation-common-2.8.4-19 C:\Users\WW\.gradle\caches\9.8.1\transforms\76aa62a1ac37bd71a17666316ea7ccf5\transformed\navigation-common-2.8.4\res
+lk.printxpress.app-ui-text-release-20 C:\Users\WW\.gradle\caches\9.8.1\transforms\833e3205176988cd64445eff609f6406\transformed\ui-text-release\res
+lk.printxpress.app-material3-release-21 C:\Users\WW\.gradle\caches\9.8.1\transforms\854f2d354dcbec99875c03941d8d49cb\transformed\material3-release\res
+lk.printxpress.app-activity-1.9.3-22 C:\Users\WW\.gradle\caches\9.8.1\transforms\85f435afe61abd1ba847f4c4e230c96d\transformed\activity-1.9.3\res
+lk.printxpress.app-core-1.15.0-23 C:\Users\WW\.gradle\caches\9.8.1\transforms\89680dc7bb44e975a1d1ffb420e5d26c\transformed\core-1.15.0\res
+lk.printxpress.app-navigation-common-ktx-2.8.4-24 C:\Users\WW\.gradle\caches\9.8.1\transforms\8ab12e477faa02af1de4b0a8c6fd26a4\transformed\navigation-common-ktx-2.8.4\res
+lk.printxpress.app-core-ktx-1.15.0-25 C:\Users\WW\.gradle\caches\9.8.1\transforms\8c730ed6df4fda788df1e163d48583c8\transformed\core-ktx-1.15.0\res
+lk.printxpress.app-graphics-path-1.0.1-26 C:\Users\WW\.gradle\caches\9.8.1\transforms\8f8cf89890d3c1ab6e9b45ea0cd0e5fd\transformed\graphics-path-1.0.1\res
+lk.printxpress.app-ui-test-manifest-1.7.5-27 C:\Users\WW\.gradle\caches\9.8.1\transforms\91643e789f525861eb4075a26c736375\transformed\ui-test-manifest-1.7.5\res
+lk.printxpress.app-ui-graphics-release-28 C:\Users\WW\.gradle\caches\9.8.1\transforms\9297c167e9001a437ab096d93580779a\transformed\ui-graphics-release\res
+lk.printxpress.app-lifecycle-runtime-release-29 C:\Users\WW\.gradle\caches\9.8.1\transforms\92da38a50a76cfb04a4990f9b61776e5\transformed\lifecycle-runtime-release\res
+lk.printxpress.app-runtime-saveable-release-30 C:\Users\WW\.gradle\caches\9.8.1\transforms\958b0bb4613c9de78aa59205e723d02f\transformed\runtime-saveable-release\res
+lk.printxpress.app-customview-poolingcontainer-1.0.0-31 C:\Users\WW\.gradle\caches\9.8.1\transforms\9d105ff915c8599160a15b80c367e1cb\transformed\customview-poolingcontainer-1.0.0\res
+lk.printxpress.app-lifecycle-runtime-ktx-release-32 C:\Users\WW\.gradle\caches\9.8.1\transforms\9d57955934b7391c1bce1bbcd0c092b2\transformed\lifecycle-runtime-ktx-release\res
+lk.printxpress.app-annotation-experimental-1.4.1-33 C:\Users\WW\.gradle\caches\9.8.1\transforms\a04baa30813a3ad23a21f411a74085f4\transformed\annotation-experimental-1.4.1\res
+lk.printxpress.app-lifecycle-viewmodel-ktx-2.8.7-34 C:\Users\WW\.gradle\caches\9.8.1\transforms\b09460d34b3c3c8c21928e7021602794\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+lk.printxpress.app-ui-tooling-release-35 C:\Users\WW\.gradle\caches\9.8.1\transforms\b0eb714e58b92423296d78f21563051c\transformed\ui-tooling-release\res
+lk.printxpress.app-sqlite-framework-2.4.0-36 C:\Users\WW\.gradle\caches\9.8.1\transforms\b2d3c53a4426f7b7160d2682bc4405dc\transformed\sqlite-framework-2.4.0\res
+lk.printxpress.app-ui-tooling-data-release-37 C:\Users\WW\.gradle\caches\9.8.1\transforms\b79338446a3bf9e64601b3d5869192e5\transformed\ui-tooling-data-release\res
+lk.printxpress.app-room-ktx-2.6.1-38 C:\Users\WW\.gradle\caches\9.8.1\transforms\bc9b572c639e9c0eb24438c4bf33d77a\transformed\room-ktx-2.6.1\res
+lk.printxpress.app-material-icons-core-release-39 C:\Users\WW\.gradle\caches\9.8.1\transforms\befabcf1405745f949567fbd7debf021\transformed\material-icons-core-release\res
+lk.printxpress.app-lifecycle-livedata-core-2.8.7-40 C:\Users\WW\.gradle\caches\9.8.1\transforms\c65d083f05c9d9fba0e19e3dc02d2d82\transformed\lifecycle-livedata-core-2.8.7\res
+lk.printxpress.app-activity-compose-1.9.3-41 C:\Users\WW\.gradle\caches\9.8.1\transforms\cc6ae9fb7b09e80571a9c68d088dec4d\transformed\activity-compose-1.9.3\res
+lk.printxpress.app-lifecycle-runtime-compose-release-42 C:\Users\WW\.gradle\caches\9.8.1\transforms\ce2a0f09a88decfbbc177e14fb31df8a\transformed\lifecycle-runtime-compose-release\res
+lk.printxpress.app-activity-ktx-1.9.3-43 C:\Users\WW\.gradle\caches\9.8.1\transforms\d2c9032e57d4bcc9c94a8db586ed34f4\transformed\activity-ktx-1.9.3\res
+lk.printxpress.app-foundation-release-44 C:\Users\WW\.gradle\caches\9.8.1\transforms\d8a02436731d8ebe35a92de76ac0d4c8\transformed\foundation-release\res
+lk.printxpress.app-lifecycle-viewmodel-compose-release-45 C:\Users\WW\.gradle\caches\9.8.1\transforms\d9139a33b2424a337bc1382d679fc8ec\transformed\lifecycle-viewmodel-compose-release\res
+lk.printxpress.app-profileinstaller-1.3.1-46 C:\Users\WW\.gradle\caches\9.8.1\transforms\dc75fddca94cbcab3a6c26b3442b90ba\transformed\profileinstaller-1.3.1\res
+lk.printxpress.app-ui-geometry-release-47 C:\Users\WW\.gradle\caches\9.8.1\transforms\ebc8c28c67e42a1d7c44546e085496cf\transformed\ui-geometry-release\res
+lk.printxpress.app-material-release-48 C:\Users\WW\.gradle\caches\9.8.1\transforms\f0092dfdb0f5440dbabf0f3255658735\transformed\material-release\res
+lk.printxpress.app-ui-unit-release-49 C:\Users\WW\.gradle\caches\9.8.1\transforms\f1eeb2179798f765428044c304cb2aab\transformed\ui-unit-release\res
+lk.printxpress.app-material-ripple-release-50 C:\Users\WW\.gradle\caches\9.8.1\transforms\f2bc91693d5089b924cc47cb7a44e34a\transformed\material-ripple-release\res
+lk.printxpress.app-lifecycle-viewmodel-release-51 C:\Users\WW\.gradle\caches\9.8.1\transforms\f4b853ec07c652dc22ba10d213670396\transformed\lifecycle-viewmodel-release\res
+lk.printxpress.app-ui-util-release-52 C:\Users\WW\.gradle\caches\9.8.1\transforms\f78f472a35dd020f5e01c42af59ee7b6\transformed\ui-util-release\res
+lk.printxpress.app-navigation-runtime-2.8.4-53 C:\Users\WW\.gradle\caches\9.8.1\transforms\fd42194a153119c1f59d0861a06c75ac\transformed\navigation-runtime-2.8.4\res
+lk.printxpress.app-resValues-54 C:\Users\WW\Documents\MAD FINAL\Mad\app\build\generated\res\resValues\debug
+lk.printxpress.app-packageDebugResources-55 C:\Users\WW\Documents\MAD FINAL\Mad\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+lk.printxpress.app-packageDebugResources-56 C:\Users\WW\Documents\MAD FINAL\Mad\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+lk.printxpress.app-debug-57 C:\Users\WW\Documents\MAD FINAL\Mad\app\build\intermediates\merged_res\debug\mergeDebugResources
+lk.printxpress.app-debug-58 C:\Users\WW\Documents\MAD FINAL\Mad\app\src\debug\res
+lk.printxpress.app-main-59 C:\Users\WW\Documents\MAD FINAL\Mad\app\src\main\res
